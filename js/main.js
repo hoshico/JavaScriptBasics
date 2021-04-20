@@ -1,3 +1,6 @@
-'use strict'
+'use strict';
     
-console.log('Hello World! from main.js!');
+{
+  console.log(x);
+  const x = 100;
+ }
