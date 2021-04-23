@@ -1,6 +1,5 @@
 'use strict';
     
 {
-  console.log(x);
-  const x = 100;
+  con st
  }
